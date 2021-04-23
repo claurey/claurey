@@ -16,9 +16,12 @@ Soy ingeniera electrónica, estudiante de diseño gráfico y desarrollo full-sta
 ```
 
 
-:rocket: Amo...viajar, pero sin tour; 
-:chocolate_bar: el chocolate, pero no en helado; 
-:art:pintar, pero solo con acuarela; 
+:rocket: Amo...viajar, pero sin tour;  
+
+:chocolate_bar: el chocolate, pero no en helado;  
+
+:art:pintar, pero solo con acuarela;  
+
 :yum:la palta, siempre  
 
 ```
