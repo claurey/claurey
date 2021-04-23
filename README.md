@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=""/>
+<img src="Beach.png"/>
 
 Here are some ideas to get you started:
 
