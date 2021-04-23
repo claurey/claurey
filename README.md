@@ -1,4 +1,4 @@
-### Hola, soy Claudia!! 👋  
+  
 
 <p align="center">
   <img src="Beach.png" width="1000"/>
@@ -6,7 +6,7 @@
 
 
 ```
-Soy ingeniera electrónica, estudiante de diseño gráfico y desarrollo full-stack.
+### Hola, soy Claudia!! 👋 Soy ingeniera electrónica, estudiante de diseño gráfico y desarrollo full-stack.
 ```
 
 
