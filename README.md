@@ -5,8 +5,9 @@
 </p>
 
 
+### Hola, soy Claudia!! 👋 
 ```
-### Hola, soy Claudia!! 👋 Soy ingeniera electrónica, estudiante de diseño gráfico y desarrollo full-stack.
+Soy ingeniera electrónica, estudiante de diseño gráfico y desarrollo full-stack.
 ```
 
 
