@@ -1,13 +1,7 @@
 ### Hola, soy Claudia!! 👋  
 
-  
-    
-      
-      
-
-
 <p align="center">
-  <img src="Beach.png" width="600"/>
+  <img src="Beach.png" width="800"/>
 </p>
 
 
