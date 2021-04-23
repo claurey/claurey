@@ -1,7 +1,7 @@
 ### Hola, soy Claudia!! 👋  
 
 <p align="center">
-  <img src="Beach.png" width="800"/>
+  <img src="Beach.png" width="1000"/>
 </p>
 
 
