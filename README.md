@@ -1,7 +1,9 @@
 ### Hola, soy Claudia!! 👋
 
+<p align="center">
+  <img src="Beach.png" width="600"/>
+</p>
 
-<img src="Beach.png" width="800"/>
 
 ```
 Soy ingeniera electrónica, estudiante de diseño gráfico y desarrollo full-stack.
