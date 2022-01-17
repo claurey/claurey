@@ -7,7 +7,7 @@
 
 ### Hola, soy Claudia!! 👋 
 ```
-I'm electronic engineer, front-end development student.
+I'm electronic engineer and front-end development student.
 ```
 
 Love ❤️ ...
