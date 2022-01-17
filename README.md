@@ -10,14 +10,15 @@
 I'm electronic engineer, front-end development student.
 ```
 
+Love ❤️ ...
 
-:rocket: Love...travel, without tour;  
+:rocket: travel, without tour;  
 
 :chocolate_bar: chocolate, but not in icecream;  
 
 :art: painting, but only in watercolors;  
 
-:yum:🥑, always 
+:yum:eat 🥑, always 
 
 ```
 I'm learning :
