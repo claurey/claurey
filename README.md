@@ -7,20 +7,20 @@
 
 ### Hola, soy Claudia!! 👋 
 ```
-Soy ingeniera electrónica, estudiante de diseño gráfico y desarrollo full-stack.
+I'm electronic engineer, front-end development student.
 ```
 
 
-:rocket: Amo...viajar, pero sin tour;  
+:rocket: Love...travel, without tour;  
 
-:chocolate_bar: el chocolate, pero no en helado;  
+:chocolate_bar: chocolate, but not in icecream;  
 
-:art:pintar, pero solo con acuarela;  
+:art: painting, but only in watercolors;  
 
-:yum:la palta, siempre  
+:yum:🥑, always 
 
 ```
-Estoy aprendiendo diferentes lenguajes y herramientas:
+I'm learning :
 ```
 
 - HTML
