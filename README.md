@@ -29,3 +29,6 @@ I'm learning :
 - JavaScript
 - React
 - Python
+
+
+My portfolio [here](claurey.github.io/)👉🏽 
