@@ -31,4 +31,4 @@ I'm learning :
 - Python
 
 
-My portfolio [here](claurey.github.io/)👉🏽 
+My portfolio [here](https://claurey.github.io)👉🏽 
