@@ -7,8 +7,30 @@
 
 ### Hola, soy Claudia!! 👋 
 ```
-I'm electronic engineer and front-end development student.
+I'm electronic engineer and front-end developer.
 ```
+
+```
+I have solid knowlegment and projects using:
+```
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React
+- Node.js
+- MongoDB
+
+```
+Check out some of my work:
+```
+- 📆[Calendar] MERN (https://mera-calendar.herokuapp.com/)
+- 🍩[Random Meal Generator] (https://codepen.io/claurey/full/mdrpVqK)
+- 🙃[Mood Calendar] (https://codepen.io/claurey/full/YzGaQjz)
+
+My portfolio [here](https://claurey.github.io)👉🏽 
+
 
 Love ❤️ ...
 
@@ -19,16 +41,3 @@ Love ❤️ ...
 :art: painting, but only in watercolors;  
 
 :yum:eat 🥑, always 
-
-```
-I'm learning :
-```
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Python
-
-
-My portfolio [here](https://claurey.github.io)👉🏽 
