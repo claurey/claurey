@@ -1,8 +1,5 @@
   
 
-<p align="center">
-  <img src="Beach.png" width="1000"/>
-</p>
 
 
 ### Hola, soy Claudia!! 👋 
